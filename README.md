@@ -1,7 +1,7 @@
 # Whatever
 Whatever - Códigos em Java para uso geral<br>
-EN-Whatever - Codes in Java for general use
+EN-Whatever - Codes in Java for general use<br>
 
-Projeto:
-ScriptDownloadPdf - Programa para baixar arquivos PDFs em determinado diretório a partir de uma URL
-EN-ScriptDownloadPdf - Program to download PDF files in a given directory from a URL
+Projeto:<br>
+ScriptDownloadPdf - Programa para baixar arquivos PDFs em determinado diretório a partir de uma URL<br>
+EN-ScriptDownloadPdf - Program to download PDF files in a given directory from a URL<br>
